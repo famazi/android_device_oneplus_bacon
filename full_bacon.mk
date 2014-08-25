@@ -32,7 +32,7 @@ $(call inherit-product, device/oneplus/bacon/bacon.mk)
 PRODUCT_NAME := pa_bacon
 PRODUCT_DEVICE := bacon
 PRODUCT_BRAND := Oneplus
-PRODUCT_MODEL := One
+PRODUCT_MODEL := One A0001
 PRODUCT_MANUFACTURER := Oneplus
 
 # Inherit from proprietary blobs
